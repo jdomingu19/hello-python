@@ -34,4 +34,4 @@ Este repositorio es mi espacio de estudio personal para **practicar Python a fon
 - Aprender a usar librerías populares como `tkinter`, `turtle`, `numpy` y `pandas`
 - Documentar progresos y descubrimientos de forma ordenada
 
-> Hello World! '\u{2665}'
+> Made with '\u{2665}' (♥)
