@@ -1,0 +1,1 @@
+{"3": {"NOMBRE": "Cubo", "REFERENCIA": "3", "PRECIO": "500"}, "triangulo": {"NOMBRE": "Triangulo", "REFERENCIA": "triangulo", "PRECIO": "700"}}

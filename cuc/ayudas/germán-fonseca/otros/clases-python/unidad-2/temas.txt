@@ -1,0 +1,10 @@
+Condicionales:
+
+funciones básicas
+
+if
+else
+elif
+
+operadores comparativos
+operadores lógicos

@@ -1,0 +1,1 @@
+{"123": {"ID": "1", "CLIENTE": "Jesus", "PRODUCTO": "Cubo", "CANTIDAD": "2", "TOTAL": 1000}, "456": {"ID": "2", "CLIENTE": "Santiago", "PRODUCTO": "Triangulo", "CANTIDAD": "3", "TOTAL": 2100}}

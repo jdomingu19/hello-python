@@ -1,0 +1,21 @@
+from moduloPregunta01 import *
+
+lista01 = ListaSimple()
+lista01.adicionarAlInicio(1)
+lista01.adicionarAlInicio(2)
+lista01.adicionarAlInicio(3)
+lista01.adicionarAlInicio(4)
+lista01.adicionarAlInicio(5)
+lista01.adicionarAlInicio(6)
+lista01.adicionarAlInicio(7)
+lista01.adicionarAlInicio(8)
+lista01.adicionarAlInicio(9)
+lista01.adicionarAlInicio(1)
+lista01.adicionarAlInicio(1)
+lista01.adicionarAlInicio(1)
+lista01.adicionarAlInicio(1)
+lista01.adicionarAlInicio(1)
+
+print(f"Lista 01: {lista01}")
+lista01.eliminarAparicionesDato(1)
+print(f"Lista 01: {lista01}")

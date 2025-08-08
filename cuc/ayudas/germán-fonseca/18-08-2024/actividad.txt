@@ -1,0 +1,10 @@
+ACTIVIDAD PARA ENTREGAR
+
+[...] elaborar un programa en Python,
+donde usando una lista enlazada, 
+permita insertar al final,
+eliminar y mostrar la lista.
+
+Debe capturar los nombres de un grupo de estudiantes,
+adicionalmente elaborar una presentación en Power Point
+donde tendrá que explicar el trabajo realizado.

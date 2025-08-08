@@ -1,0 +1,9 @@
+for
+while
+
+contadores
+acumuladores
+
+iterables
+listas o arrays
+

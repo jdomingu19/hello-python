@@ -1,0 +1,14 @@
+Introducción:
+
+Variables
+Constantes
+
+Tipos de datos
+Estructuras de datos
+type()
+
+print
+input
+
+Operador de asignación
+Operadores matemáticos

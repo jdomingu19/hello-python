@@ -1,17 +1,24 @@
-# For old directories
-/pruebas-old
-/cuc-old
+# For unnecessary files to GitHub:
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+*.zip
+*.rar
 
-# For Data Handling Tutorial
+# For old directories:
+/pruebas-old
+
+# For Data Handling Tutorial:
 /data.csv
 
-# For Python MySQL Tutorial
+# For Python MySQL Tutorial:
 mysql_credentials.py
 __pycache__
 
-# For Python MongoDB Tutorial
+# For Python MongoDB Tutorial:
 playground-1.mongodb.js
 mongodb_credentials.py
 
-# For Python MCM
+# For Python MCM:
 /pruebas/mcm/mcm_pruebas.py
