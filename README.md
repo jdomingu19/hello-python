@@ -9,7 +9,7 @@
 
 ![](./images/header.png)
  
-Este repositorio es mi espacio de estudio personal de **mi aprendizaje de Python desde cero**, con ejemplos, ejercicios del cursos en linea y proyectos académicos.
+Este repositorio es mi espacio personal para **aprender y practicar Python desde cero**,  reuniendo ejemplos, ejercicios de cursos en línea y proyectos académicos.
 
 ## 🔎 ¿Qué encontrarás?
 
@@ -19,7 +19,7 @@ Este repositorio es mi espacio de estudio personal de **mi aprendizaje de Python
 
 - Programación orientada a objetos (`classes-objects/`, `inheritance/`, `polymorphism/`)
 
-- Conceptos más avanzados acerca del lenguaje (`machine-learning/`, `matplotlib/`)
+- Conceptos y usos más avanzados (`machine-learning/`, `matplotlib/`)
 - Carpeta: [`w3schools/`](./w3schools/)
 
 ### 🧪 Pruebas personales 
@@ -27,23 +27,22 @@ Este repositorio es mi espacio de estudio personal de **mi aprendizaje de Python
 - Experimentos propios sobre el lenguaje
 
 - Ejemplos divertidos encontrados en Internet
-- Script para automatizar tareas cotidianas
+- Automatización de tareas cotidianas
 - Carpeta: [`playground/`](./playground/)
 
 ### 🥇 Librerías populares
 
-- Para operaciones y análisis de datos
+- Operaciones y análisis de datos ([`numpy/`](./numpy/), [`pandas/`](./pandas/))
 
-- Para creación de interfaces de usuario
-- Carpetas: [`numpy/`](./numpy/), [`pandas/`](./pandas/), [`tkinter/`](./tkinter/), [`turtle/`](./turtle/)
+- Creación de interfaces de usuario GUI ([`tkinter/`](./tkinter/))
+- Gráficos y animaciones ([`turtle/`](./turtle/))
 
 ### 🎓 Uso en la universidad
 
-- Conocimientos de los fundamentos de los algoritmos
+- Fundamentos de algoritmos y lógica de programación
 
-- Ejercicios para entender lógica de programación
-- Ayudas realizadas a compañeros de clases
-- Código y proyectos realizados por asignaturas
+- Ejercicios y proyectos realizados para distintas asignaturas
+- Material de apoyo para compañeros de clase
 - Carpeta: [`cuc/`](./cuc/)
 
 ## 🎯 Objetivos del repositorio
@@ -51,5 +50,6 @@ Este repositorio es mi espacio de estudio personal de **mi aprendizaje de Python
 - Documentar progresos y conocimientos de forma ordenada
 
 - Aprender a usar librerías populares como `tkinter`, `turtle`, `numpy` y `pandas`
+- Mantener un repositorio útil como guía de referencia personal
 
 > Made with '\u{2665}' (♥)
