@@ -15,11 +15,11 @@ Este repositorio es mi espacio personal para **aprender y practicar Python desde
 
 ### 🗂️ Aprendizaje estructurado
 
-- Sintaxis y estructuras básicas (`variables/`, `data-types/`, `functions/`)
+- Sintaxis y estructuras básicas (e.g. `variables/`, `data-types/`, `functions/`)
 
-- Programación orientada a objetos (`classes-objects/`, `inheritance/`, `polymorphism/`)
+- Programación orientada a objetos (e.g. `classes-objects/`, `inheritance/`, `polymorphism/`)
 
-- Conceptos y usos más avanzados (`machine-learning/`, `matplotlib/`)
+- Conceptos y usos más avanzados (e.g. `machine-learning/`, `matplotlib/`)
 - Carpeta: [`w3schools/`](./w3schools/)
 
 ### 🧪 Pruebas personales 
@@ -49,7 +49,7 @@ Este repositorio es mi espacio personal para **aprender y practicar Python desde
 
 - Documentar progresos y conocimientos de forma ordenada
 
-- Aprender a usar librerías populares como `tkinter`, `turtle`, `numpy` y `pandas`
+- Aprender a usar librerías populares como [`tkinter`](./tkinter/), [`turtle`](./turtle/), [`numpy`](./numpy/) y [`pandas`](./pandas/)
 - Mantener un repositorio útil como guía de referencia personal
 
 > Made with '\u{2665}' (♥)
