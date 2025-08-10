@@ -21,4 +21,4 @@ playground-1.mongodb.js
 mongodb_credentials.py
 
 # For Python MCM:
-/pruebas/mcm/mcm_pruebas.py
+mcm_pruebas.py
