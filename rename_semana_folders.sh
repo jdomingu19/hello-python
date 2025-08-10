@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Change to the Board of Directors
-cd "d:/Jesús/Documentos/hello-python/cuc" || exit 1
+cd "d:/Jesús/Documentos/hello-python/" || exit 1
 
 # Look for all folders that coincide with semana-<digit>
 find . -type d -regextype posix-egrep -regex '.*/semana-[1-9]$' | while read -r dir; do

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Change to the Board of Directors
-cd "d:/Jesús/Documentos/hello-python/cuc-old/" || exit 1
+cd "d:/Jesús/Documentos/hello-python/" || exit 1
 
 # Find all the folders called -pycache-and rename __pycache__
 find . -type d -name "-pycache-" | while read -r dir; do
