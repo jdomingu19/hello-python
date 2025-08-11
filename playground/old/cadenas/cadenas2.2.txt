@@ -1,0 +1,19 @@
+Cadena: Hola Santiago
+1. Invertir: ogaitnaS aloH
+2. Longitud: 13
+3. Lista caracteres: ['H', 'o', 'l', 'a', ' ', 'S', 'a', 'n', 't', 'i', 'a', 'g', 'o', 'H', 'o', 'l', 'a', ' ', 'S', 'a', 'n', 't', 'i', 'a', 'g', 'o']
+4. Lista palabras: ['Hola', 'Santiago']
+5. Lista vocales: ['o', 'a', 'i']
+6. Lista consonantes: ['H', 'l', 'S', 'n', 't', 'g']
+7. Lista números: []
+8. Lista signos de puntuación: []
+9. Lista otros caracteres: []
+10. Cantidad palabras: 2
+11. Cantidad vocales: 12
+12. Cantidad consonantes: 12
+13. Cantidad números: 0
+14. Cantidad signos de puntuación: 0
+15. Cantidad otros caracteres: 0
+16. Cantidad mayúsculas: 4
+17. Cantidad minúsculas: 20
+18. Cantidad espacios: 2

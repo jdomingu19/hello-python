@@ -1,0 +1,19 @@
+Cadena: Hello
+1. Invertir: olleH
+2. Longitud: 5
+3. Lista caracteres: ['H', 'e', 'l', 'l', 'o']
+4. Lista palabras: ['Hello']
+5. Lista vocales: ['e', 'o']
+6. Lista consonantes: ['H', 'l']
+7. Lista números: []
+8. Lista signos de puntuación: []
+9. Lista otros caracteres: []
+10. Cantidad palabras: 1
+11. Cantidad vocales: 2
+12. Cantidad consonantes: 3
+13. Cantidad números: 0
+14. Cantidad signos de puntuación: 0
+15. Cantidad otros caracteres: 0
+16. Cantidad mayúsculas: 1
+17. Cantidad minúsculas: 4
+18. Cantidad espacios: 0

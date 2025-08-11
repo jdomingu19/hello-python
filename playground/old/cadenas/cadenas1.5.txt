@@ -1,0 +1,19 @@
+Cadena: Hola Miguel
+1. Invertir: leugiM aloH
+2. Longitud: 11
+3. Lista vector: ['H', 'o', 'l', 'a', ' ', 'M', 'i', 'g', 'u', 'e', 'l']
+4. Lista palabras: ['Hola', 'Miguel']
+5. Lista vocales: ['o', 'a', 'i', 'u', 'e']
+6. Lista consonantes: ['H', 'l', 'M', 'g']
+7. Lista números: []
+8. Lista signos de puntuación: []
+9. Lista otros caracteres: []
+10. Cantidad palabras: 2
+11. Cantidad vocales: 5
+12. Cantidad consonantes: 5
+13. Cantidad números: 0
+14. Cantidad signos de puntuación: 0
+15. Cantidad otros caracteres: 0
+16. Cantidad mayúsculas: 2
+17. Cantidad minúsculas: 8
+18. Cantidad espacios: 1

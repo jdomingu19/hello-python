@@ -1,20 +1,17 @@
-# For unnecessary files to GitHub:
+# For unnecessary files or folders to GitHub:
 *.pdf
 *.docx
 *.xlsx
 *.pptx
 *.zip
 *.rar
-
-# For old directories:
-/pruebas-old
+__pycache__
 
 # For Data Handling Tutorial:
 /data.csv
 
 # For Python MySQL Tutorial:
 mysql_credentials.py
-__pycache__
 
 # For Python MongoDB Tutorial:
 playground-1.mongodb.js
