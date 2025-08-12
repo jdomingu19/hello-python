@@ -6,6 +6,7 @@
 *.zip
 *.rar
 __pycache__
+.vscode
 
 # For Data Handling Tutorial:
 /data.csv
