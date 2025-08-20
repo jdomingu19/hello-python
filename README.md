@@ -30,12 +30,18 @@ Este repositorio es mi espacio personal para **aprender y practicar Python desde
 - Automatización de tareas cotidianas
 - Carpeta: [`playground/`](./playground/)
 
-### 🥇 Librerías populares
+### 🌐 Librerías populares
 
 - Operaciones y análisis de datos ([`numpy/`](./numpy/), [`pandas/`](./pandas/))
 
 - Creación de interfaces de usuario GUI ([`tkinter/`](./tkinter/))
 - Gráficos y animaciones ([`turtle/`](./turtle/))
+
+### 🥇 Retos de programación 
+- Soluciones a ejercicios y retos propuestos por la **comunidad hispana** (by [mouredev](https://retosdeprogramacion.com/roadmap/))
+
+- Enunciados traducidos (si es necesario) y explicaciones propias
+- Carpeta: [`retos-de-programacion/`](./retos-de-programacion/)
 
 ### 🎓 Uso en la universidad
 
