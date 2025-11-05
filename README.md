@@ -41,7 +41,7 @@ This repository is my personal space to learn and practice Python from scratch, 
 - Solutions to exercises and challenges proposed by the Spanish-speaking community (by [mouredev](https://retosdeprogramacion.com/roadmap/))
 
 - Translated statements (if necessary) and personal explanations
-- Folder: [`programming-challenges/`](./retos-de-programacion/)
+- Folder: [`programming-challenges/`](./programming-challenges/)
 
 ### Popular libraries
 
