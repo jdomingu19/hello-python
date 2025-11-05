@@ -5,7 +5,7 @@
 
 This repository is my personal space to learn and practice Python from scratch, gathering examples, online course exercises, and academic projects.
 
-![](./images/header.png)
+![](./images/header_hello_python.jpg)
 
 > This repository is licensed under the terms of the [Apache License 2.0](LICENSE).
 
