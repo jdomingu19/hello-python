@@ -3,59 +3,59 @@
 ![Static Badge](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010) 
 ![Static Badge](https://img.shields.io/badge/Scripting-bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)
 
+This repository is my personal space to learn and practice Python from scratch, gathering examples, online course exercises, and academic projects.
 
 ![](./images/header.png)
- 
-Este repositorio es mi espacio personal para aprender y practicar Python desde cero,  reuniendo ejemplos, ejercicios de cursos en línea y proyectos académicos.
 
-## 🔎 ¿Qué encontrarás?
+> This repository is licensed under the terms of the [Apache License 2.0](LICENSE).
 
-### 👨‍💻 Aprendizaje estructurado
+## What will you find here?
 
-- Sintaxis y estructuras básicas (e.g. `variables/`, `data-types/`, `functions/`)
+### Structured learning
 
-- Programación orientada a objetos (e.g. `classes-objects/`, `inheritance/`, `polymorphism/`)
+- Basic syntax and structures (e.g. `variables/`, `data-types/`, `functions/`)
 
-- Conceptos y usos más avanzados (e.g. `machine-learning/`, `matplotlib/`)
-- Carpeta: [`w3schools/`](./w3schools/)
+- Object-oriented programming (e.g. `classes-objects/`, `inheritance/`, `polymorphism/`)
 
-### 🧪 Pruebas personales 
+- More advanced concepts and uses (e.g. `machine-learning/`, `matplotlib/`)
+- Folder: [`w3schools/`](./w3schools/)
 
-- Experimentos propios sobre el lenguaje
+### Personal tests 
 
-- Ejemplos divertidos encontrados en Internet
-- Automatización de tareas cotidianas
-- Carpeta: [`playground/`](./playground/)
+- Own experiments with the language
 
-### 🎓 Aprendizaje universitario
+- Fun examples found on the Internet
+- Automation of everyday tasks
+- Folder: [`playground/`](./playground/)
 
-- Fundamentos de algoritmos y lógica de programación
+### University learning
 
-- Ejercicios y proyectos realizados para distintas asignaturas
-- Material de apoyo para compañeros de clase
-- Carpeta: [`universidad-de-la-costa/`](./universidad-de-la-costa/)
+- Fundamentals of algorithms and programming logic
 
-### 🥇 Retos de programación 
-- Soluciones a ejercicios y retos propuestos por la comunidad hispana (by [mouredev](https://retosdeprogramacion.com/roadmap/))
+- Exercises and projects carried out for different subjects
+- Support material for classmates
+- Folder: [`universidad-de-la-costa/`](./universidad-de-la-costa/)
 
-- Enunciados traducidos (si es necesario) y explicaciones propias
-- Carpeta: [`retos-de-programacion/`](./retos-de-programacion/)
+### Programming challenges 
 
-### 📚 Librerías populares
+- Solutions to exercises and challenges proposed by the Spanish-speaking community (by [mouredev](https://retosdeprogramacion.com/roadmap/))
 
-- Operaciones y análisis de datos ([`numpy/`](./numpy/), [`pandas/`](./pandas/))
+- Translated statements (if necessary) and personal explanations
+- Folder: [`programming-challenges/`](./retos-de-programacion/)
 
-- Creación de interfaces de usuario GUI ([`tkinter/`](./tkinter/))
-- Gráficos y animaciones ([`turtle/`](./turtle/))
+### Popular libraries
+
+- Data operations and analysis ([`numpy/`](./numpy/), [`pandas/`](./pandas/))
+
+- GUI user interface creation ([`tkinter/`](./tkinter/))
+- Graphics and animations ([`turtle/`](./turtle/))
 
 
-## 🎯 Objetivos del repositorio
+## Repository goals
 
-- Documentar progresos y conocimientos de forma ordenada
+- Document progress and knowledge in an organized way
 
-- Aprender a usar librerías populares como [`tkinter`](./tkinter/), [`turtle`](./turtle/), [`numpy`](./numpy/) y [`pandas`](./pandas/)
-- Mantener un repositorio útil como guía de referencia personal
+- Learn to use popular libraries such as [`tkinter`](./tkinter/), [`turtle`](./turtle/), [`numpy`](./numpy/), and [`pandas`](./pandas/)
+- Maintain a useful repository as a personal reference guide
 
-> Este repositorio está licenciado bajo los términos de la [Licencia Apache 2.0](LICENSE).
-
-> Made with '\u{2665}' (♥) by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev)
+> Made with '♥' by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev)
