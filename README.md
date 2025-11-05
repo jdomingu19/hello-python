@@ -58,4 +58,4 @@ This repository is my personal space to learn and practice Python from scratch, 
 - Learn to use popular libraries such as [`tkinter`](./tkinter/), [`turtle`](./turtle/), [`numpy`](./numpy/), and [`pandas`](./pandas/)
 - Maintain a useful repository as a personal reference guide
 
-> Made with '♥' by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev)
+> Made with '\u{2665}' (♥) by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev)
