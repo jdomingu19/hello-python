@@ -5,9 +5,7 @@
 
 This repository is my personal space to learn and practice Python from scratch, gathering examples, online course exercises, and academic projects.
 
-![](./images/header_hello_python.jpg)
-
-> This repository is licensed under the terms of the [Apache License 2.0](LICENSE).
+![header_hello_python](https://github.com/user-attachments/assets/8813717c-bc0b-46dc-8531-e67643e28491)
 
 ## What will you find here?
 
@@ -58,4 +56,8 @@ This repository is my personal space to learn and practice Python from scratch, 
 - Learn to use popular libraries such as [`tkinter`](./tkinter/), [`turtle`](./turtle/), [`numpy`](./numpy/), and [`pandas`](./pandas/)
 - Maintain a useful repository as a personal reference guide
 
-> Made with '\u{2665}' (♥) by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev)
+## License
+
+This repository is licensed under the terms of the [Apache License 2.0](LICENSE)
+
+> Made with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19)
