@@ -1,15 +1,15 @@
 # Hello, Python!
 
-![Static Badge](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010) 
-![Static Badge](https://img.shields.io/badge/Scripting-bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/python-3.10+-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010) 
+![Static Badge](https://img.shields.io/badge/bash-scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)
 
 This repository is my personal space to learn and practice Python from scratch, gathering examples, online course exercises, and academic projects.
 
-![header_hello_python](https://github.com/user-attachments/assets/8813717c-bc0b-46dc-8531-e67643e28491)
+![header_hello_python](https://github.com/user-attachments/assets/2d296e01-7d1d-4f4c-bf00-f8eed76a9b50)
 
-## What will you find here?
+## Repository Content
 
-### Structured learning
+### Structured Learning
 
 - Basic syntax and structures (e.g. `variables/`, `data-types/`, `functions/`)
 
@@ -18,7 +18,7 @@ This repository is my personal space to learn and practice Python from scratch, 
 - More advanced concepts and uses (e.g. `machine-learning/`, `matplotlib/`)
 - Folder: [`w3schools/`](./w3schools/)
 
-### Personal tests 
+### Playground 
 
 - Own experiments with the language
 
@@ -26,7 +26,7 @@ This repository is my personal space to learn and practice Python from scratch, 
 - Automation of everyday tasks
 - Folder: [`playground/`](./playground/)
 
-### University learning
+### University Learning
 
 - Fundamentals of algorithms and programming logic
 
@@ -34,14 +34,14 @@ This repository is my personal space to learn and practice Python from scratch, 
 - Support material for classmates
 - Folder: [`universidad-de-la-costa/`](./universidad-de-la-costa/)
 
-### Programming challenges 
+### Code Challenges 
 
 - Solutions to exercises and challenges proposed by the Spanish-speaking community (by [mouredev](https://retosdeprogramacion.com/roadmap/))
 
 - Translated statements (if necessary) and personal explanations
 - Folder: [`programming-challenges/`](./programming-challenges/)
 
-### Popular libraries
+### Popular Libraries
 
 - Data operations and analysis ([`numpy/`](./numpy/), [`pandas/`](./pandas/))
 
@@ -49,7 +49,7 @@ This repository is my personal space to learn and practice Python from scratch, 
 - Graphics and animations ([`turtle/`](./turtle/))
 
 
-## Repository goals
+## Repository Goals
 
 - Document progress and knowledge in an organized way
 
