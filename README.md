@@ -1,7 +1,7 @@
 # Hello, Python!
 
-![Static Badge](https://img.shields.io/badge/python-3.10+-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010) 
-![Static Badge](https://img.shields.io/badge/bash-scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/python-3.10+-1C2024?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010) 
+![Static Badge](https://img.shields.io/badge/bash-scripting-1C2024?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)
 
 This repository is my personal space to learn and practice Python from scratch, gathering examples, online course exercises, and academic projects.
 
