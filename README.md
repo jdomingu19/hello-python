@@ -5,7 +5,7 @@
 
 This repository is my personal space to learn and practice Python from scratch, gathering examples, online course exercises, and academic projects.
 
-![header_hello_python](https://github.com/user-attachments/assets/2d296e01-7d1d-4f4c-bf00-f8eed76a9b50)
+![header_hello_python](https://github.com/user-attachments/assets/08ec93e4-4a63-47b5-8cd1-36bc652511a4)
 
 ## Repository Content
 
